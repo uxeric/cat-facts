@@ -17,6 +17,7 @@ async function main ( req, res ) {
   res.end(`
     <html>
       <head>
+        <title>Camila's Random Cat Facts</title>
         <style>
           .content {
             max-width: 600px;
