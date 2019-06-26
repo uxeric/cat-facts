@@ -2,12 +2,14 @@
   "name": "cat-facts",
   "version": "1.0.0",
   "description": "Random Cat Facts",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "uxeric",
   "license": "ISC",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "heroku-run-build-script": true,
   "dependencies": {
     "node-fetch": "^2.6.0"
   }
