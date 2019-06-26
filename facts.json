@@ -1541,7 +1541,7 @@
     "userUpvoted": null
   }, {
     "_id": "5b085f85be3157001432164f",
-    "text": "The Australian Wildlife Conservancy completed a 44km cat-proof fence in 2018 to prevent feral cats from entering the Newhaven wildlife sanctuary, who kill about a million native birds every night across Australia and have caused the extinction of 20 native species.",
+    "text": "The Australian Wildlife Conservancy completed a 44km cat-proof fence in 2018 to prevent feral cats from entering the Newhaven wildlife sanctuary, who kill about a million native birds every night across Australia and have caused the extinction of 20 native species.",
     "type": "cat",
     "user": {
       "_id": "5a9ac18c7478810ea6c06381",
@@ -1593,7 +1593,7 @@
     "userUpvoted": null
   }, {
     "_id": "5a4aab372c99ee00219e11c6",
-    "text": "The french tuxedo kitty, Félix, aka \"Astrocat\", was the first cat to go to space. She survived the trip.",
+    "text": "The french tuxedo kitty, Felix, aka \"Astrocat\", was the first cat to go to space. She survived the trip.",
     "type": "cat",
     "user": {
       "_id": "5a9ac18c7478810ea6c06381",
@@ -2276,7 +2276,7 @@
   }, {
     "_id": "5c87d03dec1e5c0aa37e0a6b",
     "type": "cat",
-    "text": "On October 24, 1963, a tuxedo cat named Félicette entered outer space aboard a French Véronique AG1 rocket and made feline history. Félicette returned from the 15-minute trip in once piece and earned the praise of French scientists, who said she made \"a valuable contribution to research.\".",
+    "text": "On October 24, 1963, a tuxedo cat named Felicette entered outer space aboard a French Veronique AG1 rocket and made feline history. Felicette returned from the 15-minute trip in once piece and earned the praise of French scientists, who said she made \"a valuable contribution to research.\".",
     "user": {
       "_id": "5a9ac18c7478810ea6c06381",
       "name": {

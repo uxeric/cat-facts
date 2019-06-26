@@ -3,7 +3,7 @@ const PORT = process.env.PORT || 9001
 const http = require('http')
 const fetch = require('node-fetch')
 const fs = require('fs')
-const cat_facts = JSON.parse(require('fs').readFileSync('./facts.json', 'utf8')).all
+const cat_facts = JSON.parse(fs.readFileSync('./facts.json', 'utf8')).all
 const cat_pics_api_url = 'https://api.thecatapi.com/v1/images/search?size=full'
 
 const server = http.createServer()
