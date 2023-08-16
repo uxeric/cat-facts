@@ -33,7 +33,7 @@ async function main ( req, res ) {
       </head>
       <body>
         <div class="content">
-          <h1>Camila's Random Cat Facts</h2>
+          <h1>Random Cat Facts</h2>
           <img class="kitty-picture" src="${photo_url}" alt="Kitty Picture">
           <h2>Did you know?</h4>
           <p>${fact}</p>
